@@ -1,0 +1,92 @@
+[
+    {
+        "flightId": "KLM89",
+        "companyName": "Air France",
+        "fromCity": "A",
+        "toCity": "B",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "price": 1854,
+        "currency": "DKK"
+    },
+    {
+        "flightId": "DK153",
+        "companyName": "Qatar",
+        "fromCity": "B",
+        "toCity": "C",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "price": 780,
+        "currency": "DKK"
+    },
+    {
+        "flightId": "MS911",
+        "companyName": "Turkish",
+        "fromCity": "C",
+        "toCity": "D",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "price": 1000,
+        "currency": "DKK"
+    },
+    {
+        "flightId": "MS911",
+        "companyName": "Turkish",
+        "fromCity": "C",
+        "toCity": "D",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "price": 1000,
+        "currency": "DKK"
+    },
+    {
+        "flightId": "MS911",
+        "companyName": "Turkish",
+        "fromCity": "C",
+        "toCity": "D",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "price": 1000,
+        "currency": "DKK"
+    },
+    {
+        "flightId": "213908",
+        "companyName": "a",
+        "fromCity": "a",
+        "toCity": "a",
+        "departureTime": "1582188889",
+        "arrivalTime": "1582188889",
+        "price": "a",
+        "currency": "usd"
+    },
+    {
+        "flightId": "896",
+        "companyName": "88",
+        "fromCity": "8",
+        "toCity": "8",
+        "departureTime": "1582188889",
+        "arrivalTime": "1582188889",
+        "price": "8",
+        "currency": "USD"
+    },
+    {
+        "flightId": "DSK565",
+        "companyName": "Air Canada",
+        "fromCity": "A",
+        "toCity": "B",
+        "departureTime": "1582188889",
+        "arrivalTime": "1582361689",
+        "price": "6100",
+        "currency": "DKK"
+    },
+    {
+        "flightId": "FH123",
+        "companyName": "Air Canada",
+        "fromCity": "B",
+        "toCity": "C",
+        "departureTime": "1582188889",
+        "arrivalTime": "1582361689",
+        "price": "8000",
+        "currency": "DKK"
+    }
+]

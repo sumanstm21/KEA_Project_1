@@ -1,0 +1,50 @@
+[
+    {
+        "flightId": "KLM89",
+        "companyName": "Air France",
+        "fromCity": "A",
+        "toCity": "B",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "price": 1854,
+        "currency": "DKK",
+        "bookingCode": "name",
+        "lastName": "name"
+    },
+    {
+        "flightId": "213908",
+        "companyName": "a",
+        "fromCity": "a",
+        "toCity": "a",
+        "departureTime": "a",
+        "arrivalTime": "a",
+        "price": "a",
+        "currency": "usd",
+        "bookingCode": "33e9fccedf3354766a5f",
+        "lastName": "ccc"
+    },
+    {
+        "flightId": "MS911",
+        "companyName": "Turkish",
+        "fromCity": "C",
+        "toCity": "D",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "price": 1000,
+        "currency": "DKK",
+        "bookingCode": "7cf8373256dd6871d947",
+        "lastName": "test1"
+    },
+    {
+        "flightId": "KLM89",
+        "companyName": "Air France",
+        "fromCity": "A",
+        "toCity": "B",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "price": 1854,
+        "currency": "DKK",
+        "bookingCode": "57e52a06ba915286ab4b",
+        "lastName": "name"
+    }
+]
